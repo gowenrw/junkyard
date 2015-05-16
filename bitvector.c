@@ -1,3 +1,10 @@
+/************************************************************************
+* bitvector.c
+* Richard Gowen
+*
+* This is a test for extracting bits from bytes in a bitvector
+*
+************************************************************************/
 #include<stdio.h>
 
 extern void BitsFromByte( char byte, char bits[ ], int k );

@@ -1,5 +1,5 @@
 /************************************************************************
-* font_basic.c
+* font_basic.h
 * Richard Gowen
 *
 * This is an 8x8 bitmap font library
